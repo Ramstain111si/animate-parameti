@@ -128,4 +128,4 @@ c.fillText(xScore, x + (stX-x) / 2, stY -(stY - y)/2 )
 
 }
 
-animateEverithingOut()
+animateEverythingOut()
